@@ -63,3 +63,19 @@ which gives the ability to do an perform operations from both side.
 
 ## Stack and queue operations using ArrayDeque
 ![img_14.png](img_14.png)
+
+## Set Interface
+![img_16.png](img_16.png)
+Meaning of "Mathematical Set" in Java:
+A mathematical set:
+*     Contains unique elements (no duplicates)
+*     Has no defined order (in regular sets)
+Java's Set interface models the same behavior.
+![img_17.png](img_17.png)
+
+![img_18.png](img_18.png)
+
+## Maps 
+![img_19.png](img_19.png)
+![img_20.png](img_20.png)
+![img_21.png](img_21.png)
